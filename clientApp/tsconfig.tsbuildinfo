@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/composables/useAudioRecorder.ts","./src/composables/useWebSocket.ts","./src/App.vue","./src/components/RecordingInterface.vue"],"version":"5.8.3"}
